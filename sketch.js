@@ -76,7 +76,7 @@ function setup() {
   //botão 1
   button = createImg('cut_btn.png');
   button.position(200,320);
-  button.size(50,50);
+  button.size(50,150);
 
   button2 = createImg('cut_btn.png');
   button2.position(30,420);
